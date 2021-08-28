@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+               	<contribuinte>
+		                <cpf>111.111.111-11</cpf>
+				        <rg>11.111.111-1</rg>
+				        <nome>Murilo Miguel Raboni</nome>
+				        <data>23/09/2004</data>    
+			     	<endereco>
+				        <logradouro>Rua 10</logradouro>
+				        <numero>23</numero>
+				        <bairro>Santana</bairro>
+				        <cep>09400-000</cep>
+				        <cidade>Ribeirão Pires</cidade>	
+				        <estado>SP</estado>
+					</endereco>
+				 	<contato>
+				        <telefone>11 4825-4840</telefone>
+				        <celular>11 97484-4840</celular>
+				        <email>murilomiguel2309@gmail.com</email>
+				    </contato>
+				    <renda>R$ 6.200</renda>
+				    <foto><img src= "img/robo1.png"</img>  </foto>
+
+				    <conta>
+				        <agencia>111-2</agencia>
+				        <nconta>222222-1</nconta>
+				    </conta>
+		        </contribuinte>
+
+
+		        <contribuinte>
+		                <cpf>111.111.111-12</cpf>
+				        <rg>11.111.111-2</rg>
+				        <nome>Renato Silva</nome>
+				        <data>13/05/2000</data>    
+			     	<endereco>
+				        <logradouro>Rua 100</logradouro>
+				        <numero>233</numero>
+				        <bairro>Oriente</bairro>
+				        <cep>09700-000</cep>
+				        <cidade>Mauá</cidade>	
+				        <estado>SP</estado>
+					</endereco>
+				 	<contato>
+				        <telefone>11 4825-4000</telefone>
+				        <celular>11 97484-4000</celular>
+				        <email>renatinhoflamengo@gmail.com</email>
+				    </contato>
+				    <renda>R$ 3.200</renda>
+				    <foto><img src= "img/robo2.png"</img></foto>
+
+				    <conta>
+				        <agencia>111-2</agencia>
+				        <nconta>222222-3</nconta>
+				    </conta>
+		        </contribuinte>
+
+
+		        <contribuinte>
+		                <cpf>111.111.111-13</cpf>
+				        <rg>11.111.111-3</rg>
+				        <nome>Pollyana Romanini</nome>
+				        <data></data>    
+			     	<endereco>
+				        <logradouro>Rua Jardim Luzo</logradouro>
+				        <numero>333</numero>
+				        <bairro>Luzo</bairro>
+				        <cep>09400-010</cep>
+				        <cidade>Ribeirão Pires</cidade>	
+				        <estado>SP</estado>
+					</endereco>
+				 	<contato>
+				        <telefone>11 4444-4444</telefone>
+				        <celular>11 94444-4444</celular>
+				        <email>pollycat@gmail.com</email>
+				    </contato>
+				    <renda>R$ 10.000</renda>
+				    <foto><img src= "img/robo3.png"</img></foto>
+
+				    <conta>
+				        <agencia>111-2</agencia>
+				        <nconta>222222-4</nconta>
+				    </conta>
+		        </contribuinte>
+
+
+		        <contribuinte>
+		                <cpf>111.111.111-20</cpf>
+				        <rg>11.111.111-9</rg>
+				        <nome>Jéssica Santos</nome>
+				        <data>08/10/1998</data>    
+			     	<endereco>
+				        <logradouro>Rua Francisco Monteiro</logradouro>
+				        <numero>302</numero>
+				        <bairro>Centro</bairro>
+				        <cep>09800-000</cep>
+				        <cidade>São Paulo</cidade>	
+				        <estado>SP</estado>
+					</endereco>
+				 	<contato>
+				        <telefone>11 4333-3333</telefone>
+				        <celular>11 93333-3333</celular>
+				        <email>jessica5@gmail.com</email>
+				    </contato>
+				    <renda>R$ 9.000</renda>
+				    <foto><img src= "img/robo5.png"</img></foto>
+
+				    <conta>
+				        <agencia>141-3</agencia>
+				        <nconta>223222-1</nconta>
+				    </conta>
+		        </contribuinte>
+
+		        <contribuinte>
+		                <cpf>111.111.111-33</cpf>
+				        <rg>11.111.113-9</rg>
+				        <nome>Cíntia Sousa</nome>
+				        <data>07/07/1987</data>    
+			     	<endereco>
+				        <logradouro>Rua Bom Senhor</logradouro>
+				        <numero>702</numero>
+				        <bairro>Santa Luzia</bairro>
+				        <cep>01000-000</cep>
+				        <cidade>Recife</cidade>	
+				        <estado>PE</estado>
+					</endereco>
+				 	<contato>
+				        <telefone>11 5333-3333</telefone>
+				        <celular>11 95333-3333</celular>
+				        <email>cintia.sousa@gmail.com</email>
+				    </contato>
+				    <renda>R$ 8.000 </renda>
+				    <foto><img src= "img/robo4.png"</img></foto>
+
+				    <conta>
+				        <agencia>161-4</agencia>
+				        <nconta>223522-1</nconta>
+				    </conta>
+		        </contribuinte>
+
+		    </receita>
